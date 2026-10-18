@@ -1,0 +1,74 @@
+[
+    {
+        "nom": "Mohamed",
+        "note_info": 16,
+        "note_math": 17,
+        "moyenne": 16.5
+    },
+    {
+        "nom": "Ahmed",
+        "note_info": 14,
+        "note_math": 15,
+        "moyenne": 14.5
+    },
+    {
+        "nom": "Hind",
+        "note_info": 13,
+        "note_math": 12,
+        "moyenne": 12.5
+    },
+    {
+        "nom": "Aicha",
+        "note_info": 15,
+        "note_math": 14,
+        "moyenne": 14.5
+    },
+    {
+        "nom": "Samir",
+        "note_info": 13,
+        "note_math": 12,
+        "moyenne": 12.5
+    },
+    {
+        "nom": "Zakaria",
+        "note_info": 13,
+        "note_math": 11,
+        "moyenne": 12
+    },
+    {
+        "nom": "Rafik",
+        "note_info": 10,
+        "note_math": 9,
+        "moyenne": 9.5
+    },
+    {
+        "nom": "Ilham",
+        "note_info": 9,
+        "note_math": 8,
+        "moyenne": 8.5
+    },
+    {
+        "nom": "Hamza",
+        "note_info": 7,
+        "note_math": 6,
+        "moyenne": 6.5
+    },
+    {
+        "nom": "Sami",
+        "note_info": 7,
+        "note_math": 5,
+        "moyenne": 6
+    },
+    {
+        "nom": "Noura",
+        "note_info": 14,
+        "note_math": 13,
+        "moyenne": 13.5
+    },
+    {
+        "nom": "Test",
+        "note_info": 15,
+        "note_math": 17,
+        "moyenne": 16
+    }
+]
