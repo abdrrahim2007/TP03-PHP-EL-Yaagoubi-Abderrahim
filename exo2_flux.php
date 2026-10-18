@@ -161,4 +161,6 @@ do {
     echo "<p> $i</p>";
     $i++;
 } while ($i <= 20);
+// la différence entre while et do-while est que do-while s'exécute au moins une fois, même si la condition est fausse
+
 ?>
